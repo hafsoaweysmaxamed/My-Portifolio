@@ -10,7 +10,7 @@ function Home(){
     <div className="sm:ml-[100px]  sm:mt-[50px]">
     <h1 className="text-3xl text-white font-bold "> <span className="text-[#EE0000]">Hi, I'm </span>HafsoXilwanag</h1>
     <p className=" font-semibold mt-3 sm:ml-0 ml-11 text-white">A  Full Stack Developer<br/> buiding elegant experiences</p>
-    <a href=" Resume.pdf"><button className="w-[110px] h-[40px] ml-[50px] sm:ml-0 bg-[] rounded text-white text-2xl font-semibold mt-3 ">Resume</button></a>
+    <a href=" Resume.pdf"><button className="w-[110px] h-[40px] ml-[50px] sm:ml-0 bg-white rounded text-black text-2xl font-semibold mt-3 ">Resume</button></a>
     <div className="mt-7 ml-[50px] sm:ml-0">
     <a href="https://github.com/hafsoaweysmaxamed?tab=repositories"><i class="fa-brands fa-github bg-white w-[30px] h-[30px] text-2xl font-semibold pl-1 rounded text-black "></i></a>
     <a href="https://wa.me/252613857669" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-whatsapp bg-white w-[30px] h-[30px] text-2xl font-semibold pl-1 rounded text-black ml-3"></i></a>
